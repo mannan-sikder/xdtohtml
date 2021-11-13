@@ -901,6 +901,7 @@ form ul li {
     display: block;
 }
     .search {
+        max-width:100%;
         width:400px;
         position: relative;
         margin-bottom: 30px;
